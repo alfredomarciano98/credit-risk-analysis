@@ -6,11 +6,8 @@ Many people struggle to get loans due to insufficient or non-existent credit his
 In this repository I tried to do some analysis including EDA, feature engineering, etc to build predictive model using simple classification model such as Logistic Regression so I could find the stastical inference between properties and the target class. I am using data provided by Home Credit from https://www.kaggle.com/c/home-credit-default-risk/
 
 I divide it into 3 notebooks: Data Understanding and Exploratory Data Analysis, Data Preparation, and Data Modelling with Evaluation.
-
-Data Understanding and Exploratory Data Analysis : basicly this notebook where I explore the data wholly, checking the basic statistics, data types, etc. Then I did EDA to find the anomaly in the data, to find features which helps differs customers who repay or not, etc.
-
-Data Preparation: This notebook shows the step I done to prepare the dataset before trained using machine learning method such as where I treat the anomaly, imputed the missing data, and using regularization to select feature and prevent the model overfitting the train dataset.
-
-Data Modelling and Evaluation: Steps where I trained the model using data after all preparation, use it to predict train dataset, checking whether the model overfit or not and finally use it to predict the oot data.
+  Data Understanding and EDA          : The first notebook where I explore the data wholly, checking the basic statistics, data types, etc. Then I did EDA to find the anomaly                                            of the data, to find features which helps differs customers who repay or not, etc.
+  Data Preparation                    : This notebook shows the step I done to prepare the dataset before trained using machine learning method such as the way I treat the                                                 anomaly, imputed the missing data, and using regularization for feature selection and prevent the model overfitting the train dataset.
+  Data Modelling and Evaluation       : Steps where I trained the model using data after all preparation, use it to predict train dataset, checking whether the model overfit or                                           not and finally use it to predict the oot data.
 
 I believe all my works are not perfect yet, that's why I welcome any suggestion that could improve my works. Thank you!
