@@ -6,9 +6,9 @@ Many people struggle to get loans due to insufficient or non-existent credit his
 In this repository I tried to do some analysis including EDA, feature engineering, etc to build predictive model using simple classification model such as Logistic Regression so I could find the stastical inference between properties and the target class. I am using data provided by Home Credit from https://www.kaggle.com/c/home-credit-default-risk/
 
 I divide it into 3 notebooks:
-* 1. Data Understanding: In this notebook I tried to explore about the dataset, checking the available data, the data types for every column, and Exploratory Data Analysis to draw some conclusions about the data.
-* 2. Data Preparation: This is where I prepare the dataset before modelling steps, such as encoding categorical data, remove anomaly data, and imputating data to create final dataset used for modelling
-* 3. Data Modelling and Evaluation: The final notebook will tell when I create model to predict which customer will defaulted the loan and evaluate it using ROC AUC
+* Data Understanding: In this notebook I tried to explore about the dataset, checking the available data, the data types for every column, and Exploratory Data Analysis to draw some conclusions about the data.
+* Data Preparation: This is where I prepare the dataset before modelling steps, such as encoding categorical data, remove anomaly data, and imputating data to create final dataset used for modelling
+* Data Modelling and Evaluation: The final notebook will tell when I create model to predict which customer will defaulted the loan and evaluate it using ROC AUC
 
 I believe all my works are not perfect yet, that's why I welcome any suggestion that could improve my works. Thank you!
 
