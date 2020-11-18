@@ -13,11 +13,11 @@ I divide it into 3 notebooks:
 I believe all my works are not perfect yet, that's why I welcome any suggestion that could improve my works. Thank you!
 
 Reference:
-# https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
-# https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
-https://towardsdatascience.com/feature-selection-using-regularisation-a3678b71e499
-https://towardsdatascience.com/how-to-perform-lasso-and-ridge-regression-in-python-3b3b75541ad8
-https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
-https://towardsdatascience.com/how-to-calibrate-undersampled-model-scores-8f3319c1ea5b
-https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2
-Buuren, Oudshoorn.2011.mice: Multivariate Imputation by Chained Equations in R.Jurnal of Statistical Software.45(3)
+* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
+* https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+* https://towardsdatascience.com/feature-selection-using-regularisation-a3678b71e499
+* https://towardsdatascience.com/how-to-perform-lasso-and-ridge-regression-in-python-3b3b75541ad8
+* https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+* https://towardsdatascience.com/how-to-calibrate-undersampled-model-scores-8f3319c1ea5b
+* https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2
+* Buuren, Oudshoorn.2011.mice: Multivariate Imputation by Chained Equations in R.Jurnal of Statistical Software.45(3)
